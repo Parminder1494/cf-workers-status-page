@@ -39,7 +39,7 @@ monitors:
     expectStatus: 200
     
     
-- id: blog-cloudflare-com
+- id: blog-facebook-com
     name: The Facebook Blog
     url: 'https://facebook.com/'
     method: GET
