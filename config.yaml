@@ -41,6 +41,6 @@ monitors:
     
 - id: blog-facebook-com
     name: The Facebook Blog
-    url: 'https://facebook.com/'
+    url: 'https://facebook.com'
     method: GET
     expectStatus: 200
